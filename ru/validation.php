@@ -117,6 +117,8 @@ return array(
     |
     */
 
-    'attributes' => array(),
+   'attributes' => array(
+           'email' => 'Адрес Вашей почты',
+       )
 
 );
